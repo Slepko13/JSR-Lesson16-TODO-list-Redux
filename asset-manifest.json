@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JSR-Lesson16-TODO-list-Redux/static/css/main.466b8f0e.chunk.css",
+    "main.js": "/JSR-Lesson16-TODO-list-Redux/static/js/main.0c4fb5c0.chunk.js",
+    "main.js.map": "/JSR-Lesson16-TODO-list-Redux/static/js/main.0c4fb5c0.chunk.js.map",
+    "runtime-main.js": "/JSR-Lesson16-TODO-list-Redux/static/js/runtime-main.07c9381d.js",
+    "runtime-main.js.map": "/JSR-Lesson16-TODO-list-Redux/static/js/runtime-main.07c9381d.js.map",
+    "static/js/2.42ec02a0.chunk.js": "/JSR-Lesson16-TODO-list-Redux/static/js/2.42ec02a0.chunk.js",
+    "static/js/2.42ec02a0.chunk.js.map": "/JSR-Lesson16-TODO-list-Redux/static/js/2.42ec02a0.chunk.js.map",
+    "index.html": "/JSR-Lesson16-TODO-list-Redux/index.html",
+    "precache-manifest.acf4ee4ff912826b606721a841ad3fbe.js": "/JSR-Lesson16-TODO-list-Redux/precache-manifest.acf4ee4ff912826b606721a841ad3fbe.js",
+    "service-worker.js": "/JSR-Lesson16-TODO-list-Redux/service-worker.js",
+    "static/css/main.466b8f0e.chunk.css.map": "/JSR-Lesson16-TODO-list-Redux/static/css/main.466b8f0e.chunk.css.map",
+    "static/js/2.42ec02a0.chunk.js.LICENSE.txt": "/JSR-Lesson16-TODO-list-Redux/static/js/2.42ec02a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07c9381d.js",
+    "static/js/2.42ec02a0.chunk.js",
+    "static/css/main.466b8f0e.chunk.css",
+    "static/js/main.0c4fb5c0.chunk.js"
+  ]
+}
